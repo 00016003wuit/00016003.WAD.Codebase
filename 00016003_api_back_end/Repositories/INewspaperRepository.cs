@@ -1,5 +1,5 @@
 ﻿using _00016003_api_back_end.Models;
-
+// 00016003
 namespace _00016003_api_back_end.Repositories
 {
     public interface INewspaperRepository
@@ -12,3 +12,4 @@ namespace _00016003_api_back_end.Repositories
         Task SaveAsync();
     }
 }
+// 00016003
